@@ -2,6 +2,7 @@
 # Syntax Coloring Map for TinyLoRa Library #
 ########################################################
 # Class TinyLoRa
+# #LoRaDev @Discord
 ###################################################################
 TinyLoRa	KEYWORD1
 
